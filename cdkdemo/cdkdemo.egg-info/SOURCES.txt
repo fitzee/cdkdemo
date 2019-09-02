@@ -1,0 +1,7 @@
+README.md
+setup.py
+cdkdemo/cdkdemo.egg-info/PKG-INFO
+cdkdemo/cdkdemo.egg-info/SOURCES.txt
+cdkdemo/cdkdemo.egg-info/dependency_links.txt
+cdkdemo/cdkdemo.egg-info/requires.txt
+cdkdemo/cdkdemo.egg-info/top_level.txt
